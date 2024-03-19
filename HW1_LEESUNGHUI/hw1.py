@@ -1,1 +1,1 @@
-print('This is a hw1.')
+print('This is a hw1')
